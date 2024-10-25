@@ -1,1 +1,1 @@
-# egt-gen
+# egt
