@@ -10,5 +10,10 @@ This project uses the [**CrossDocked2020**](https://github.com/gnina/models/tree
 Run the following command to download the downsampled version of the dataset:
 
 ```bash
-bash download_downsampled_data.sh
+sh download_downsampled_data.sh
 
+### Option 2: Download the Complete Dataset (53.5GB)
+Run the following command to download the complete version of the dataset:
+
+```bash
+sh download_data.sh
